@@ -7,7 +7,7 @@
 
 ## Passive Doggo is a "passive proxy" that unblocks any site, including extension and DNS blocked sites.
 ### an example of the index homepage running on a school managed chromebook:
-![work1](assets/1.png)
+![work1](demopictures/1.png)
 
 ## Table Of Contents:
 1. How To Set Up 
@@ -94,5 +94,5 @@ Using the MIT License, See [LICENSE](https://github.com/BeyYT/Passive-Doggo/blob
 
 ### Screenshots:
 (taken on a school managed chromebook)
-![work2](assets/2.png)
-![work3](assets/3.png)
+![work2](demopictures/2.png)
+![work3](demopictures/3.png)
