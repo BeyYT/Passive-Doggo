@@ -1,0 +1,18 @@
+{
+  "name": "passive-doggo-proxy",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Passive-Doggo Proxy, an simple, easy to set-up and use, customizable proxy!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "concurrently \"forever server.js start\" \"http-server -p 8030 -d false -i false\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "website-scraper": "^5.0.0"
+  }
+}

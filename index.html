@@ -1,0 +1,45 @@
+<body>
+    <p> Scrape Proxy </p>
+    <ul>
+        <input id="http" type="text" placeholder="Enter Blocked Website Link:"></input>
+        <button onclick="startreq()">Unblock!</button>
+        <button onclick="fs()">fullscreen</button>
+        <button onclick="rg()">regular</button>
+    </ul>
+    <iframe id="ifm" frameborder="0" width="1280" height="720" allowfullscreen></iframe>
+</body>
+<style>
+    body {
+        font-size: 24px;
+        font-family: monospace;
+        background-color: gray;
+    }
+    .fullScreen {
+      width: 100vw;
+      height: 100vh;
+   }
+   .regular {
+      width: "1280";
+      height: "720"
+   }
+</style>
+<script>
+    function fs() {
+        var element = document.getElementById("ifm");
+        element.classList.add("fullScreen");
+        element.classList.remove("regular");
+    }
+    function rg() {
+        var element = document.getElementById("ifm");
+        element.classList.remove("fullScreen");
+        element.classList.add("regular");
+    }
+    function startreq() {
+        let val = document.getElementById("http").value
+        var url = window.location.href;
+        console.log(url)
+        url = url.replace(":8030", ":3000")
+        url = url.replace("/index", "/")
+        document.getElementById("ifm").src = url + 'get?web="' + val + '"';
+    }
+</script>
