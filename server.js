@@ -36,7 +36,7 @@ app.get('/get', (req, res) => {
 
     //function so that people can use website immediatly.
     function redirect() {
-        res.send('ready to use! <a href="http://'+ req.get('host').replace(':3000', '') +':8030/temp/' + randomid +'/index.html">link, note: if it looks funky the first try, try reloading the page!</a>')
+        res.send('ready to use! <a style="color: #99aab5;font-family: monospace;text-align: center;" href="http://'+ req.get('host').replace(':3000', '') +':8030/temp/' + randomid +`/index.html">Note: It looks like the site doesn't wants to load, click here to try fixing it!</a></div>`)
     }
     //function to delete the website to save space.
     function del() {
