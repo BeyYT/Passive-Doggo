@@ -1,0 +1,16 @@
+body {
+    font-size: 24px;
+    font-family: monospace;
+    color: #5663F7;
+    background-color: #050e1a;
+}
+
+.fullScreen {
+  width: 100vw;
+  height: 100vh;
+}
+
+.regular {
+  width: "1280";
+  height: "720"
+}
