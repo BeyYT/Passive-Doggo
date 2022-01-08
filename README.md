@@ -1,3 +1,5 @@
+# Note: This is just a redesign, you can  [here](https://github.com/BeyYT/Passive-Doggohttps://github.com/BeyYT/Passive-Doggo)
+
 # Passive Doggo
 <p align="center" width="100%">
     <img width="33%" src="https://media.discordapp.net/attachments/867098721509572648/929230695321186325/Untitled39_20220107212804.png?width=325&height=325">
