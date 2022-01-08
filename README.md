@@ -1,4 +1,4 @@
-# Note: This is just a redesign, you can  [here](https://github.com/BeyYT/Passive-Doggohttps://github.com/BeyYT/Passive-Doggo)
+### Note: This is just a redesign, you can check the original out [here](https://github.com/BeyYT/Passive-Doggohttps://github.com/BeyYT/Passive-Doggo)
 
 # Passive Doggo
 <p align="center" width="100%">
