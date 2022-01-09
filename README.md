@@ -1,3 +1,5 @@
+### Note: This is just a redesign, please check out the original [here](https://github.com/BeyYT/Passive-Doggohttps://github.com/BeyYT/Passive-Doggo)
+
 # Passive Doggo
 <p align="center" width="100%">
     <img width="33%" src="https://media.discordapp.net/attachments/867098721509572648/929230695321186325/Untitled39_20220107212804.png?width=325&height=325">
@@ -5,7 +7,7 @@
 
 ## Passive Doggo is a "passive proxy" that unblocks any site, including extension and DNS blocked sites.
 ### an example of the index homepage running on a school managed chromebook:
-![work1](assets/1.png)
+![work1](demopictures/1.png)
 
 ## Table Of Contents:
 1. How To Set Up 
@@ -92,5 +94,5 @@ Using the MIT License, See [LICENSE](https://github.com/BeyYT/Passive-Doggo/blob
 
 ### Screenshots:
 (taken on a school managed chromebook)
-![work2](assets/2.png)
-![work3](assets/3.png)
+![work2](demopictures/2.png)
+![work3](demopictures/3.png)
