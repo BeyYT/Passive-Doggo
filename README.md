@@ -43,7 +43,7 @@ You Should See The Following Output:
 
 [1] Starting up http-server, serving ./
 [1]
-[1] http-server version: 14.0.0
+[1] http-server version: x.x.x
 [1]
 [1] http-server settings:
 [1] CORS: disabled
@@ -56,7 +56,7 @@ You Should See The Following Output:
 [1] Default File Extension: none
 [1]
 [1] Available on:
-[1]   http://10.0.0.104:8030
+[1]   http://xxx.xxx.x.xxx:8030
 [1]   http://127.0.0.1:8030
 [1] Hit CTRL-C to stop the server
 ```
